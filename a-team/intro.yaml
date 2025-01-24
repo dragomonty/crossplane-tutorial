@@ -12,6 +12,7 @@ spec:
   parameters:
     nodeSize: small
     minNodeCount: 3
+    vpcId: vpc-8a82abef  # Replace with your actual VPC ID
 ---
 apiVersion: v1
 kind: Secret
